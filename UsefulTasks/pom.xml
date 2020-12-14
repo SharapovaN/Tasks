@@ -27,6 +27,8 @@
         <module>PasswordGenerator</module>
         <module>LogParser</module>
         <module>Agregator</module>
+        <module>TestFramework</module>
+        <module>Logger</module>
     </modules>
 
     <properties>

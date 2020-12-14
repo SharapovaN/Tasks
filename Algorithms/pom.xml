@@ -14,6 +14,9 @@
         <module>Rectangles</module>
         <module>FibonacciNumbers</module>
         <module>TowerOfHanoi</module>
+        <module>FriendsGraph</module>
+        <module>ExchangeGraph</module>
+        <module>Timetable</module>
     </modules>
 
     <developers>
