@@ -8,10 +8,10 @@ natali@tj-s.ru
 
   `<server port=”9999”/>`
 
-   `<client port=”9999”>`
+`   <client port=”9999”>`
 
-      `<ServerHost>localhost</ServerHost>`
+      <ServerHost>localhost</ServerHost>
 
-   `</client>`
+`   </client>`
 
 `</config>`
