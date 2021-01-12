@@ -4,14 +4,14 @@ Examples of solving tasks in java
 Sharapova Natalia
 natali@tj-s.ru
 
-<<config>
+`<config>`
 
-  <server port=”9999”/>
+  `<server port=”9999”/>`
 
-   <client port=”9999”>
+   `<client port=”9999”>`
 
-      <ServerHost>localhost</ServerHost>
+      `<ServerHost>localhost</ServerHost>`
 
-   </client>
+   `</client>`
 
-</config>>
+`</config>`
